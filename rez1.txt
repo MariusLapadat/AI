@@ -1,0 +1,1440 @@
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 424.28
+Worst: 366
+Timpul de rulare: 0.12705016136169434
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 431.86
+Worst: 421
+Timpul de rulare: 0.1271212100982666
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 380.39
+Worst: 377
+Timpul de rulare: 0.13869380950927734
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 716
+Avg: 347.16
+Worst: 387
+Timpul de rulare: 0.12644219398498535
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 356.68
+Worst: 455
+Timpul de rulare: 0.12805914878845215
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 716
+Avg: 420.78
+Worst: 326
+Timpul de rulare: 0.12714862823486328
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 702
+Avg: 377.67
+Worst: 407
+Timpul de rulare: 0.13299870491027832
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 691
+Avg: 382.87
+Worst: 403
+Timpul de rulare: 0.12576770782470703
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 711
+Avg: 368.36
+Worst: 393
+Timpul de rulare: 0.13344478607177734
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 398.73
+Worst: 372
+Timpul de rulare: 0.1266460418701172
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 431.22
+Worst: 520
+Timpul de rulare: 0.6324565410614014
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 703
+Avg: 417.97
+Worst: 366
+Timpul de rulare: 0.6363699436187744
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 359.77
+Worst: 420
+Timpul de rulare: 0.6470234394073486
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 711
+Avg: 366.25
+Worst: 413
+Timpul de rulare: 0.6283764839172363
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 698
+Avg: 404.74
+Worst: 333
+Timpul de rulare: 0.6287903785705566
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 401.29
+Worst: 424
+Timpul de rulare: 0.6698596477508545
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 705
+Avg: 432.8
+Worst: 430
+Timpul de rulare: 0.6310806274414062
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 354.56
+Worst: 440
+Timpul de rulare: 0.6779656410217285
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 364.01
+Worst: 405
+Timpul de rulare: 0.6302947998046875
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 372.09
+Worst: 385
+Timpul de rulare: 0.6302883625030518
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 711
+Avg: 414.91
+Worst: 431
+Timpul de rulare: 1.2605555057525635
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 706
+Avg: 372.97
+Worst: 376
+Timpul de rulare: 1.2577946186065674
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 689
+Avg: 371.29
+Worst: 393
+Timpul de rulare: 1.2647621631622314
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 703
+Avg: 382.32
+Worst: 372
+Timpul de rulare: 1.2486727237701416
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 694
+Avg: 395.15
+Worst: 378
+Timpul de rulare: 1.2535912990570068
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 375.25
+Worst: 424
+Timpul de rulare: 1.247549057006836
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 706
+Avg: 353.27
+Worst: 433
+Timpul de rulare: 1.2551238536834717
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 711
+Avg: 399.59
+Worst: 454
+Timpul de rulare: 1.2545981407165527
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 716
+Avg: 346.69
+Worst: 354
+Timpul de rulare: 1.2541172504425049
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 716
+Avg: 390.58
+Worst: 450
+Timpul de rulare: 1.2543935775756836
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 386.344
+Worst: 312
+Timpul de rulare: 0.4401662349700928
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 371.996
+Worst: 339
+Timpul de rulare: 0.4544811248779297
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 710
+Avg: 341.636
+Worst: 416
+Timpul de rulare: 0.4394679069519043
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 372.352
+Worst: 383
+Timpul de rulare: 0.4431037902832031
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 701
+Avg: 353.844
+Worst: 225
+Timpul de rulare: 0.44019389152526855
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 363.668
+Worst: 271
+Timpul de rulare: 0.4387965202331543
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 371.228
+Worst: 363
+Timpul de rulare: 0.4394993782043457
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 365.492
+Worst: 372
+Timpul de rulare: 0.43952059745788574
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 356.372
+Worst: 351
+Timpul de rulare: 0.4411454200744629
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 382.896
+Worst: 398
+Timpul de rulare: 0.44107651710510254
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 355.512
+Worst: 290
+Timpul de rulare: 2.2002170085906982
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 363.376
+Worst: 351
+Timpul de rulare: 2.225851535797119
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 356.5
+Worst: 349
+Timpul de rulare: 2.2086939811706543
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 399.56
+Worst: 351
+Timpul de rulare: 2.1749348640441895
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 350.592
+Worst: 376
+Timpul de rulare: 2.2157557010650635
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 401.24
+Worst: 349
+Timpul de rulare: 2.19826340675354
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 385.536
+Worst: 394
+Timpul de rulare: 2.1775412559509277
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 716
+Avg: 366.824
+Worst: 378
+Timpul de rulare: 2.1793038845062256
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 384.608
+Worst: 407
+Timpul de rulare: 2.1779582500457764
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 365.564
+Worst: 409
+Timpul de rulare: 2.1768710613250732
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 358.188
+Worst: 359
+Timpul de rulare: 4.510531187057495
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 362.096
+Worst: 392
+Timpul de rulare: 4.472894191741943
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 351.164
+Worst: 396
+Timpul de rulare: 4.459866285324097
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 401.656
+Worst: 360
+Timpul de rulare: 4.464514255523682
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 411.008
+Worst: 303
+Timpul de rulare: 4.4633307456970215
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 365.568
+Worst: 267
+Timpul de rulare: 4.4785683155059814
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 356.488
+Worst: 368
+Timpul de rulare: 4.5899083614349365
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 379.272
+Worst: 412
+Timpul de rulare: 4.48328971862793
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 345.976
+Worst: 431
+Timpul de rulare: 4.465020656585693
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 706
+Avg: 371.656
+Worst: 378
+Timpul de rulare: 4.461479663848877
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 374.482
+Worst: 314
+Timpul de rulare: 1.4342472553253174
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 381.868
+Worst: 421
+Timpul de rulare: 1.454876184463501
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 364.628
+Worst: 311
+Timpul de rulare: 1.4208588600158691
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 359.2
+Worst: 278
+Timpul de rulare: 1.4170680046081543
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 396.992
+Worst: 276
+Timpul de rulare: 1.4227750301361084
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 705
+Avg: 383.41
+Worst: 325
+Timpul de rulare: 1.4209051132202148
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 412.254
+Worst: 378
+Timpul de rulare: 1.4222865104675293
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 716
+Avg: 361.47
+Worst: 279
+Timpul de rulare: 1.4247572422027588
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 383.866
+Worst: 380
+Timpul de rulare: 1.4221549034118652
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 361.98
+Worst: 297
+Timpul de rulare: 1.4183249473571777
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 388.402
+Worst: 369
+Timpul de rulare: 7.093932628631592
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 382.064
+Worst: 320
+Timpul de rulare: 7.061608076095581
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 405.846
+Worst: 339
+Timpul de rulare: 7.030935287475586
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 371.382
+Worst: 353
+Timpul de rulare: 7.054882049560547
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 380.094
+Worst: 263
+Timpul de rulare: 7.021654844284058
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 387.136
+Worst: 395
+Timpul de rulare: 7.1549999713897705
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 381.192
+Worst: 376
+Timpul de rulare: 7.09602952003479
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 385.31
+Worst: 355
+Timpul de rulare: 7.097306489944458
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 358.122
+Worst: 386
+Timpul de rulare: 7.067314624786377
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 354.082
+Worst: 294
+Timpul de rulare: 7.052623510360718
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 385.292
+Worst: 394
+Timpul de rulare: 13.939483165740967
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 403.868
+Worst: 329
+Timpul de rulare: 13.975986242294312
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 364.662
+Worst: 301
+Timpul de rulare: 14.094847440719604
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 355.382
+Worst: 366
+Timpul de rulare: 13.942037582397461
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 357.216
+Worst: 274
+Timpul de rulare: 13.93444037437439
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 718
+Avg: 372.682
+Worst: 353
+Timpul de rulare: 13.952503442764282
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 364.394
+Worst: 305
+Timpul de rulare: 14.051721572875977
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 370.666
+Worst: 419
+Timpul de rulare: 13.994174718856812
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 376.286
+Worst: 333
+Timpul de rulare: 13.956011772155762
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 726
+Avg: 377.854
+Worst: 232
+Timpul de rulare: 13.93284010887146
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132177
+Avg: 71552.24
+Worst: 111000
+Timpul de rulare: 0.7875335216522217
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132420
+Avg: 68273.56
+Worst: 107345
+Timpul de rulare: 0.780632495880127
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132716
+Avg: 73713.09
+Worst: 110315
+Timpul de rulare: 0.7771155834197998
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 131914
+Avg: 68665.87
+Worst: 107177
+Timpul de rulare: 0.7769534587860107
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132236
+Avg: 74505.88
+Worst: 109282
+Timpul de rulare: 0.7775459289550781
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132541
+Avg: 72223.82
+Worst: 108991
+Timpul de rulare: 0.7779874801635742
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 133041
+Avg: 71475.32
+Worst: 116018
+Timpul de rulare: 0.7769832611083984
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 131378
+Avg: 64074.34
+Worst: 114910
+Timpul de rulare: 0.7771933078765869
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132423
+Avg: 72465.7
+Worst: 105241
+Timpul de rulare: 0.7794432640075684
+
+Marime populatie: 100
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132123
+Avg: 76269.23
+Worst: 110033
+Timpul de rulare: 0.7783095836639404
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 131876
+Avg: 70885.15
+Worst: 107048
+Timpul de rulare: 3.9341466426849365
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132030
+Avg: 82492.23
+Worst: 112001
+Timpul de rulare: 3.9425415992736816
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132077
+Avg: 80637.15
+Worst: 109397
+Timpul de rulare: 3.951021671295166
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132400
+Avg: 66182.07
+Worst: 112202
+Timpul de rulare: 3.9549777507781982
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132662
+Avg: 59958.34
+Worst: 105567
+Timpul de rulare: 3.930948495864868
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132778
+Avg: 71731.11
+Worst: 109474
+Timpul de rulare: 4.0103983879089355
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132143
+Avg: 68273.88
+Worst: 110304
+Timpul de rulare: 4.006370782852173
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132259
+Avg: 85769.71
+Worst: 113316
+Timpul de rulare: 3.9339194297790527
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132066
+Avg: 65769.75
+Worst: 111835
+Timpul de rulare: 3.93100643157959
+
+Marime populatie: 100
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132708
+Avg: 72988.79
+Worst: 117911
+Timpul de rulare: 3.946147918701172
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132519
+Avg: 85123.6
+Worst: 112017
+Timpul de rulare: 7.740556478500366
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 131668
+Avg: 77429.34
+Worst: 106258
+Timpul de rulare: 7.732067346572876
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 131490
+Avg: 68270.59
+Worst: 111506
+Timpul de rulare: 7.7324793338775635
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132714
+Avg: 74129.29
+Worst: 108557
+Timpul de rulare: 7.734530687332153
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 133312
+Avg: 68877.96
+Worst: 114681
+Timpul de rulare: 7.743920803070068
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 131828
+Avg: 71825.13
+Worst: 107479
+Timpul de rulare: 7.7453155517578125
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132213
+Avg: 76323.82
+Worst: 106773
+Timpul de rulare: 7.875081777572632
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 131940
+Avg: 77803.68
+Worst: 99782
+Timpul de rulare: 7.7381980419158936
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 131732
+Avg: 63684.14
+Worst: 113327
+Timpul de rulare: 7.764902114868164
+
+Marime populatie: 100
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 131503
+Avg: 78552.26
+Worst: 106062
+Timpul de rulare: 7.7378363609313965
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132942
+Avg: 78249.44
+Worst: 104842
+Timpul de rulare: 2.0683438777923584
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132300
+Avg: 67967.748
+Worst: 107924
+Timpul de rulare: 2.063152551651001
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132345
+Avg: 68891.924
+Worst: 105836
+Timpul de rulare: 2.070333480834961
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132083
+Avg: 77070.504
+Worst: 107188
+Timpul de rulare: 2.0637967586517334
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132413
+Avg: 69313.16
+Worst: 103828
+Timpul de rulare: 2.078521728515625
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132796
+Avg: 75393.212
+Worst: 111967
+Timpul de rulare: 2.076117515563965
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132156
+Avg: 64292.312
+Worst: 107164
+Timpul de rulare: 2.110060930252075
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132866
+Avg: 67874.324
+Worst: 114003
+Timpul de rulare: 2.085763931274414
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132514
+Avg: 66185.212
+Worst: 105684
+Timpul de rulare: 2.1482467651367188
+
+Marime populatie: 250
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132295
+Avg: 73166.972
+Worst: 106895
+Timpul de rulare: 2.075772285461426
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132215
+Avg: 75061.624
+Worst: 111538
+Timpul de rulare: 10.400906562805176
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132588
+Avg: 67414.096
+Worst: 111163
+Timpul de rulare: 10.418229103088379
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 131901
+Avg: 70481.056
+Worst: 105021
+Timpul de rulare: 10.38744592666626
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132438
+Avg: 75962.404
+Worst: 104449
+Timpul de rulare: 10.408079385757446
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132608
+Avg: 68211.932
+Worst: 103861
+Timpul de rulare: 10.406585693359375
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 133232
+Avg: 74057.468
+Worst: 95185
+Timpul de rulare: 10.539560317993164
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132437
+Avg: 70549.764
+Worst: 111863
+Timpul de rulare: 10.397340297698975
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 133092
+Avg: 74102.84
+Worst: 109948
+Timpul de rulare: 10.415247917175293
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132339
+Avg: 73318.288
+Worst: 101717
+Timpul de rulare: 10.382124900817871
+
+Marime populatie: 250
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132330
+Avg: 75211.164
+Worst: 110586
+Timpul de rulare: 10.395802974700928
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132176
+Avg: 72247.836
+Worst: 111008
+Timpul de rulare: 20.396493196487427
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132396
+Avg: 68192.284
+Worst: 108997
+Timpul de rulare: 20.308539390563965
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132559
+Avg: 74721.044
+Worst: 106918
+Timpul de rulare: 20.273026943206787
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 133030
+Avg: 69815.876
+Worst: 106074
+Timpul de rulare: 20.552351713180542
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132537
+Avg: 74193.204
+Worst: 104640
+Timpul de rulare: 20.297590494155884
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132695
+Avg: 72699.716
+Worst: 106197
+Timpul de rulare: 20.25535821914673
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132111
+Avg: 73595.26
+Worst: 107687
+Timpul de rulare: 20.425286293029785
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132907
+Avg: 69427.624
+Worst: 94969
+Timpul de rulare: 20.329425573349
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 131934
+Avg: 73092.3
+Worst: 108511
+Timpul de rulare: 20.228421926498413
+
+Marime populatie: 250
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132759
+Avg: 69864.524
+Worst: 107992
+Timpul de rulare: 20.435397624969482
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 133341
+Avg: 74681.328
+Worst: 101839
+Timpul de rulare: 4.750424861907959
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132971
+Avg: 69502.708
+Worst: 106848
+Timpul de rulare: 4.742705345153809
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 133239
+Avg: 70697.542
+Worst: 104103
+Timpul de rulare: 4.7322022914886475
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132631
+Avg: 72090.788
+Worst: 98614
+Timpul de rulare: 4.7352073192596436
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132830
+Avg: 68742.464
+Worst: 108543
+Timpul de rulare: 4.722649812698364
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 133493
+Avg: 64901.67
+Worst: 108729
+Timpul de rulare: 4.7705302238464355
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132155
+Avg: 70134.002
+Worst: 99308
+Timpul de rulare: 4.734420299530029
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132726
+Avg: 74999.82
+Worst: 107151
+Timpul de rulare: 4.726453065872192
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132738
+Avg: 72308.21
+Worst: 105497
+Timpul de rulare: 4.923956632614136
+
+Marime populatie: 500
+Numar generatii: 100
+Sansa mutatie genetica: 10
+Best: 132675
+Avg: 72081.876
+Worst: 102641
+Timpul de rulare: 4.73170018196106
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132716
+Avg: 75178.336
+Worst: 104596
+Timpul de rulare: 23.321948528289795
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132972
+Avg: 78080.774
+Worst: 103157
+Timpul de rulare: 23.335302591323853
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 133085
+Avg: 76433.738
+Worst: 109289
+Timpul de rulare: 23.581117153167725
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 133027
+Avg: 68559.71
+Worst: 103948
+Timpul de rulare: 23.28399682044983
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132604
+Avg: 68543.5
+Worst: 104849
+Timpul de rulare: 23.30899453163147
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132608
+Avg: 78002.34
+Worst: 103220
+Timpul de rulare: 23.466514587402344
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132937
+Avg: 74959.448
+Worst: 106005
+Timpul de rulare: 23.365566730499268
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132605
+Avg: 71404.792
+Worst: 109610
+Timpul de rulare: 23.338752031326294
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132504
+Avg: 72217.938
+Worst: 100206
+Timpul de rulare: 23.581446647644043
+
+Marime populatie: 500
+Numar generatii: 500
+Sansa mutatie genetica: 10
+Best: 132950
+Avg: 72970.504
+Worst: 102915
+Timpul de rulare: 23.354090213775635
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 133077
+Avg: 70636.098
+Worst: 108484
+Timpul de rulare: 48.406728982925415
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132289
+Avg: 75251.252
+Worst: 106730
+Timpul de rulare: 48.449676513671875
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132826
+Avg: 66340.028
+Worst: 106748
+Timpul de rulare: 48.355732440948486
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132714
+Avg: 74047.532
+Worst: 102145
+Timpul de rulare: 48.24422264099121
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132428
+Avg: 71207.174
+Worst: 105865
+Timpul de rulare: 48.528361797332764
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132471
+Avg: 76025.134
+Worst: 101846
+Timpul de rulare: 48.40659856796265
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132478
+Avg: 73132.876
+Worst: 107528
+Timpul de rulare: 48.2741060256958
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132844
+Avg: 71244.17
+Worst: 106104
+Timpul de rulare: 48.20605492591858
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 132549
+Avg: 70350.27
+Worst: 108675
+Timpul de rulare: 48.53407907485962
+
+Marime populatie: 500
+Numar generatii: 1000
+Sansa mutatie genetica: 10
+Best: 133090
+Avg: 72808.13
+Worst: 108273
+Timpul de rulare: 48.408188581466675
+
