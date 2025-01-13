@@ -13,4 +13,4 @@ Evaluation and selection of the best solutions based on fitness functions.
 
 This repository provides a solid foundation for experimenting with evolutionary algorithms and can be extended to solve other optimization problems.
 
-"Explicații algoritmi și pseudo cod lab3.pdf" contains the explanation of the code as well as the interpretation of the data collected.
+"Explicații algoritmi și pseudo cod lab3.pdf" contains the explanation of the code as well as the interpretation of the data collected. (in romanian language)
